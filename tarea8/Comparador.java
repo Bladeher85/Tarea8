@@ -9,6 +9,8 @@ package tarea8;
  *
  * @author Phernandez
  */
+ //Pedro Luis de Jesus Hernandez Lopez
+ //Carnet: 7690-20-16633
 public interface Comparador {
 boolean igualQue(Object q);   
 boolean menorQue(Object q);
